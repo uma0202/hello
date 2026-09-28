@@ -4,12 +4,13 @@ city = "Hyderabad"
 
 education = "MBA"
 
-current_state = "AI Engineering Student"
+job = "AI Engineering Student"
 
 career_goal = "I want to become an AI/ML Engineer."
 
-print(name)
-print(city)
-print(education)
-print(current_state)
-print(career_goal)
+hobby = "reading books"
+
+subject = "My favorite subject is Geography."
+strengths = "Self confidence."
+
+print(name, city, education, job, career_goal, hobby, subject, strengths)

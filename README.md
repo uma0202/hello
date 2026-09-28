@@ -23,3 +23,18 @@ Written using {}
 | Uses `{key: value}`          | Uses `{value1, value2}`        |
 | Used to describe information | Used to represent unique items |
 | `student["name"]`            | `"Python" in skills`           |
+
+ # **String Data Structure**
+
+- A string is a sequence of characters. The Python data type for strings is str.
+- It is used to store text in Python.
+- Strings are written inside single (' ') or double (" ") quotes.
+   example = "Hello World"
+- Python strings are immutable, meaning their characters cannot be changed directly.
+- Common string methods include:
+   upper() – converts to uppercase
+   lower() – converts to lowercase
+   replace() – replaces text
+   split() – splits a string
+   strip() – removes extra spaces
+   len()- gives length of the string 
